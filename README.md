@@ -1,4 +1,4 @@
-# Django-Brownie-
+# Django-Brownie
 Django-Brownie
 
 File on:
